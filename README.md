@@ -1,7 +1,10 @@
 # Tugas Besar Pemrograman Berorientasi Objek
 
+
 Kelas : S1 SE-03-A
+
 Kelompok : 7
+
 Nama Anggota :
 1. Fauziyah Ulur Rosyad P. (19104033)
 2. Nabilah Sharfina (19104025)
@@ -37,7 +40,7 @@ memilih menggunakan const untuk mendeklarasikan sebuah variable. Kami
 menggunakan const objPelanggan kemudian memanggil property yang ada pada
 parameter class Pelanggan dan Pakaian. Variable const akan mengizinkan untuk
 melakukan perubahan data sesuai dengan method yang telah disediakan oleh
-array maupun object. Namun adakalanya kami juga menggunakan let pada kasuskasus tertentu.
+array maupun object. Namun adakalanya kami juga menggunakan let pada kasus kasus tertentu.
 2. Input Harga
 Pada menu 2 ini, user dapat menambah data yang berhubungan dengan
 pesanan mereka yang sudah diinputkan sebelumnya yaitu dengan memanggil
@@ -69,3 +72,4 @@ nantinya).
 
 E. Class Diagram
 
+![tubes (2)](https://user-images.githubusercontent.com/53574005/107951232-99d6cc00-6fca-11eb-97e7-d320e74c601b.png)
